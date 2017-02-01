@@ -11,7 +11,7 @@ JavaScript has typed values, not typed variables. Built in types include:
 
 ### Objects
 Key Value pairs, set properties that hold own value
-```javacript
+```javascript
 var obj = {
     a: 'cat',
     b: '42',
@@ -59,10 +59,10 @@ a < c;         //true
 
 ### Truthy and Falsy
 All falsey four values are below:
-```""``` (empty string)
-```0```, ```-0```, ```NaN```(invalid number)
-```null```, ```undefined```
-```false```
+1. ```""``` (empty string)
+2. ```0```, ```-0```, ```NaN```(invalid number)
+3. ```null```, ```undefined```
+4. false
 
 ### Equality
 Four operators: ==, ===, !=, !==
@@ -115,6 +115,7 @@ switch (a) {
     default:
         // fallback
 }
+```
 
 ### Ternary Operator
 ```javascript
