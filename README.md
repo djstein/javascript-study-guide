@@ -59,9 +59,13 @@ a < c;         //true
 
 ### Truthy and Falsy
 All falsey four values are below:
+
 1. ```""``` (empty string)
+
 2. ```0```, ```-0```, ```NaN```(invalid number)
+
 3. ```null```, ```undefined```
+
 4. false
 
 ### Equality
