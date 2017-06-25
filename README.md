@@ -170,3 +170,6 @@ the (); actually executes the function expression, much like foo();
 ## ```this``` Identifier
 
 ## Prototypes
+
+## React Study Guide
+www.react.express/
